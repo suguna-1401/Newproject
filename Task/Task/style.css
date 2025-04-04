@@ -1,0 +1,219 @@
+/* nav{
+    padding: 1px;
+} */
+/* *{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    padding: 20px;
+    background-color: Black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    justify-items: end;
+    margin-right: 25px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+} */
+/* div{
+    background-color:lightblue ;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+div p{
+    padding: 10px 0;
+}
+div button{
+    margin-top: 15px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+} */
+/* section{
+    padding-left: 50px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+section p{
+    margin-top: 20px;
+}
+section .space{
+    margin-bottom: 20px;
+}
+ span{
+    text-align: center;
+    float: left;
+    width: 33.33%;
+
+}
+span h4{
+    text-align: center;
+
+} */
+/* div{
+    margin: 10px;
+    background-color: antiquewhite;
+}
+div span{
+    text-align: start;
+    padding-left: 40px;
+    float: left;
+    width: 40%;
+}
+div article{
+    text-align: center;
+    margin-top: 10px;
+   
+}
+div article button{
+    background-color: yellow;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 10px 0;
+}
+div article ul li{
+    text-align: center;
+    list-style-type: none;
+
+}
+div article h4{
+    margin-top: 10px;
+}
+div article ul button{
+    background-color: blue;
+    color: white;
+    padding: 10px 5px;
+    margin: 10px;
+} */
+/* .key-points{
+    background-color: rgb(100, 100, 173);
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+.key-points h1{
+    margin-bottom: 30px;
+}
+.key-points ul{
+
+    float: left;
+    width: 50%;
+}
+.key-points ul li{
+    text-align: start;
+    margin-bottom: 5px;
+    font-weight: 12px;
+    padding: 10px;
+}
+.key-points button{  
+    background-color: white;
+    color: black;
+    margin-right: 440px;
+    margin-top: 30px;
+    
+} */
+
+
+.questions{
+    margin-top: 60px;
+    
+
+}
+.questions h2{
+    text-align:center ;
+    margin-bottom: 20px;
+}
+.questions p{
+    text-align: start;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 15px;
+    
+}
+
+
+
+/* .main-container h1{
+    text-align: start;
+    margin-bottom: 10px;
+    
+}
+.main-container .container{
+    float: left;
+    width: 22%;
+}
+.main-container .container{
+    text-align: start;
+
+} */
+
+
+/* .last{
+    margin-top: 5px;
+    padding-top: 15px;
+    color:white;
+    text-align: start;
+}
+.last div{
+    background-color: white;
+    width: 250px;
+    color: blue;
+    border-radius: 15px;
+    margin-top: 5px;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+.last h3{
+    padding: 5px 20px;
+    margin-bottom: 5px;
+}
+.last p{
+    padding: 5px 20px;
+    padding-bottom: 20px;
+}
+.last{
+    background-color: rgb(48, 48, 173);
+    margin-top: 450px;
+} */
+
+
+
+.accordion{
+    background-color: #eee;
+    color: #444;
+    text-align: left;
+    border: none;
+    padding: 18px;
+    outline: none;
+    transition: 0.4s;
+    width: 100%;
+    cursor: pointer;
+    font-size: 15px;
+}
+.active, .accordion:hover{
+    background-color: #ccc;
+}
+.panel {
+    background-color: white;
+    padding: 0 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease-out, padding 0.4s ease-out;
+}
+
+
+
+
+
+
+
+
